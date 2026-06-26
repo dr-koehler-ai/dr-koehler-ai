@@ -1,16 +1,23 @@
-## Hi there 👋
+# Physician → Clinical AI Engineer
 
-<!--
-**dr-koehler-ai/dr-koehler-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physician in Internal Medicine with clinical experience in ICU and emergency medicine, currently transitioning into Healthcare AI and Clinical Machine Learning.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Clinical Machine Learning
+- ICU Data Science
+- EHR-based predictive modeling
+- Sepsis early warning systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+- 🧠 Sepsis Prediction System (EHR + ML)
+- 📊 ICU Data Pipeline & Feature Engineering
+- 🧪 Clinical ML Experiments & Model Evaluation
+
+## Tech Stack
+Python · Pandas · Scikit-learn · PyTorch · SQL · Jupyter · Streamlit
+
+## Goal
+Building clinically meaningful AI systems that support decision-making in critical care.
+
+## Contact
+LinkedIn: (dein Link hier)
