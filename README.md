@@ -20,4 +20,4 @@ Python · Pandas · Scikit-learn · PyTorch · SQL · Jupyter · Streamlit
 Building clinically meaningful AI systems that support decision-making in critical care.
 
 ## Contact
-LinkedIn: (dein Link hier)
+LinkedIn: www.linkedin.com/in/christin-kohler-md
