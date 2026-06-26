@@ -1,6 +1,6 @@
 # Physician | Learning AI & Data Science | Building Clinical Machine Learning Projects
 
-Physician in Internal Medicine with clinical experience in ICU and emergency medicine, currently transitioning into Healthcare AI and Clinical Machine Learning.
+Physician in Internal Medicine with clinical experience in ICU and emergency medicine, currently learning Data Science and Machine Learning for Clinical Decision Making.
 
 ## Focus Areas
 - Clinical Machine Learning
@@ -9,9 +9,9 @@ Physician in Internal Medicine with clinical experience in ICU and emergency med
 - Sepsis early warning systems
 
 ## Selected Projects
-- 🧠 Sepsis Prediction System (EHR + ML)
-- 📊 ICU Data Pipeline & Feature Engineering
-- 🧪 Clinical ML Experiments & Model Evaluation
+- Sepsis Prediction System (EHR + ML)
+- ICU Data Pipeline & Feature Engineering
+- Clinical ML Experiments & Model Evaluation
 
 ## Tech Stack
 Python · Pandas · Scikit-learn · PyTorch · SQL · Jupyter · Streamlit
