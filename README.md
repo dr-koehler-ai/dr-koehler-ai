@@ -1,4 +1,4 @@
-# Physician → Clinical AI Engineer
+# Physician | Learning AI & Data Science | Building Clinical Machine Learning Projects
 
 Physician in Internal Medicine with clinical experience in ICU and emergency medicine, currently transitioning into Healthcare AI and Clinical Machine Learning.
 
